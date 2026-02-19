@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=91FFFF,FF00EF,00D4FF&height=250&section=header&text=RONEEPA&fontSize=120&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00FFFF,FFFFEF,FFD4FF&height=190&section=header&text=𝓡𝓸𝓷𝓮𝓮&fontSize=120&fontColor=ffffff&animation=fadeIn" width="75%" />
 
 # ⚡ [ SESSION :: <span style="color: #FF00EF;">ACTIVE</span> ] ⚡
 ### `THE VIBE CODER // AI ORCHESTRATOR`
